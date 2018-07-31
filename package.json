@@ -1,6 +1,6 @@
 {
   "name": "vue-json-edit",
-  "version": "1.1.5",
+  "version": "2.0",
   "description": "visual JSON editor built as an vue component",
   "author": "Jinkin1995 <jinkin1995@gmail.com>",
   "scripts": {
@@ -21,12 +21,12 @@
   "module": "./dist/vue-json-edit.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jinkin1995/vue-json-edit.git"
+    "url": "git+https://github.com/SeductiveMobile/vue-json-edit.git"
   },
-  "homepage": "https://github.com/jinkin1995/vue-json-edit",
+  "homepage": "https://github.com/SeductiveMobile/vue-json-edit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jinkin1995/vue-json-edit/issues"
+    "url": "https://github.com/SeductiveMobile/vue-json-edit/issues"
   },
   "dependencies": {
     "vue": "^2.2.2"

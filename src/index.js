@@ -7,6 +7,7 @@ const VERSION = PackageFile.version
 
 
 const install = (Vue) => {
+  // Test
   if (install.installed) return
 
   Vue.component('JsonEditor', JsonEditor)
