@@ -21,7 +21,7 @@
   "module": "./dist/vue-json-edit.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SeductiveMobile/vue-json-edit.git"
+    "url": "https://github.com/SeductiveMobile/vue-json-edit"
   },
   "homepage": "https://github.com/SeductiveMobile/vue-json-edit",
   "license": "MIT",
